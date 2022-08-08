@@ -1,0 +1,67 @@
+
+.main{
+	background-image: url(download.jpg);
+background-color: #a0522d;
+background-repeat: no-repeat;
+background-position: center  center;
+background-size: contain;
+background-attachment: fixed;
+height: 600px;
+width: 1300px;
+margin: 0px;
+}
+.coffee{
+	font-size:200px;
+	color: #ffe4c4;
+	text-shadow: white 10px 10px 10px;
+	
+}
+input[type="button"]{
+	font-size: 2rem;
+	padding: 0.2em 0.5em;
+color:#a0522d;
+background-color: #ffe4c4;
+cursor: pointer;
+}
+input[type="text"]{
+	font-size: 1rem;
+	padding: 0.5em;
+	color: #ffe4c4;
+	background-color: #a0522d; 
+}
+input[type="email"]{
+	font-size: 1rem;
+	padding: 0.5em;
+	color: #ffe4c4;
+	background-color: #a0522d; 
+}
+input[type="password"]{
+	font-size: 0.2rem;
+	padding: 0.5em;
+	color: #ffe4c4;
+	background-color: #a0522d; 
+}
+input[type="search"]{
+	font-size: 2rem;
+	color: #ffe4c4;
+	background-color: white; 
+	border-color: #ffe4c4;
+	color: black;
+}
+select{
+	font-size: 1rem;
+	padding: 0.5em;
+	color: #ffe4c4;
+	background-color: #a0522d; 
+}
+.link{
+	color: #7fffd4;
+	text-align: center;
+	vertical-align: bottom;
+	font-size: 20px;
+}
+.feedback{
+	cursor: help;
+	font-size: 20px;
+	text-align: center;
+}
